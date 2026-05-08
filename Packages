@@ -1,0 +1,268 @@
+Package: com.brend0n.nopassafterrespringsafe
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./com.brend0n.nopassafterrespringsafe_0.0.2_iphoneos-arm64e.deb
+Size: 9562
+MD5sum: 73bae35999ca81b3c0ca02dba783a1eb
+SHA1: 0b8c3c75e2d1eba5e8f94e5c7cd947eb3312c54a
+SHA256: 824ff40bf7430b93b4a9f533be1533bb9c139ff9b060860dbc3429b150886902
+Section: Tweaks
+Description: Disables passcode after a respring.
+Author: Brend0n <brendonjkding@126.com>
+Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.nopassafterrespringsafe
+Name: NoPassAfterRespring (Safe)
+Sileodepiction: https://brendonjkding.github.io/depictions/native/com.brend0n.nopassafterrespringsafe/depiction.json
+
+Package: com.ichitaso.otadisabler
+Version: 0.6
+Architecture: iphoneos-arm64e
+Maintainer: ichitaso
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./com.ichitaso.otadisabler_0.6_iphoneos-arm64e.deb
+Size: 17412
+MD5sum: e9d5d96162fc9209c5496c77028e8838
+SHA1: deeca87b70859fb71d257d992621eae5ee2b94c0
+SHA256: 23b469387083adaf7a2068c45d77663618d87bcd87daf70a87984d1f7146b1ef
+Section: System
+Homepage: https://ichitaso.com
+Description: Disable OTA and remove badges on home screen, etc.
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisabler/Icon-60%403x.png
+Name: OTADisabler
+Sileodepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
+
+Package: com.mins.00injectat
+Version: 1.0.0-320+debug
+Architecture: iphoneos-arm64e
+Maintainer: Mins
+Installed-Size: 316
+Filename: ./com.mins.00injectat_1.0.0-320+debug_iphoneos-arm64e.deb
+Size: 30208
+MD5sum: 9284a9cbc5a744de27ab1c06f64bd35f
+SHA1: e21dbeccfcfad5b59349527b5ca0dc791964528d
+SHA256: 9934fbb3416186a99e1f1411e5639d8eb3f639aa8a72693f35e5ef888c0cad98
+Section: Tweak
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: Mins
+Name: Inject autotouch license
+
+Package: com.mins.minifbcookie
+Version: 0.0.1-31+debug
+Architecture: iphoneos-arm64e
+Maintainer: Mins
+Installed-Size: 1640
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.mins.minifbcookie_0.0.1-31+debug_iphoneos-arm64e.deb
+Size: 238382
+MD5sum: 8f6cc414020fed7b93e6a7276e956b2d
+SHA1: 2a0653110057b495bc847f22804f6c816d371526
+SHA256: cde15be3aedde0a96e11858452483f67be02aa928b765e4bc0f54463f1f8640a
+Section: Tools
+Description: An awesome MobileSubstrate tool!
+Author: Mins
+Name: MiniFBCookie
+
+Package: com.mins.parsecookie
+Version: 0.0.1-38+debug
+Architecture: iphoneos-arm
+Maintainer: Mins
+Installed-Size: 288
+Filename: ./com.mins.parsecookie_0.0.1-38+debug_iphoneos-arm.deb
+Size: 10092
+MD5sum: a6c57c507554b696af4f5978f6a89db0
+SHA1: b7deded5a24fe2c94097c8d34866e119aa4ff1b2
+SHA256: 89c391aca24079a9740c672c8dbf6476aac88c7ce15a77da613a3f280079e92e
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: Mins
+Name: ParseCookie
+
+Package: com.nahtedetihw.closeall
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Ethan Whited
+Installed-Size: 208
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./com.nahtedetihw.closeall_1.0_iphoneos-arm64e-3.deb
+Size: 29722
+MD5sum: 586ea751192b2aa5b3d9e4279160bbfe
+SHA1: da8ce158d1d67f0c9a73c3bb30979bf031aa486a
+SHA256: 005301838c0a43c35e24dfc0b0855fe859f98ff1b9f846049e2c523a84d90e5e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Ethan Whited
+Name: CloseAll
+
+Package: com.xxxxxxxx.ATT
+Version: 0.2-1
+Architecture: iphoneos-arm64e
+Maintainer: xxxxxxxx
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./com.xxxxxxxx.ATT_0.2-1_iphoneos-arm64e.deb
+Size: 10196
+MD5sum: d27505cafb7b5b5ced39532810a7e435
+SHA1: 3bddbf7b20d409251fccbf96b2770356e1e1b96e
+SHA256: b2e3ca6e2d521b29dfec2a20a205556786840b061e36746fb68708bc0e254df1
+Section: System
+Priority: optional
+Author: xxxxxxxx
+Dev: xxxxxxxx
+Name: xxxxxATT
+
+Package: ios.zard.fbinject
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: ZARD
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./Fbinjec roothide.deb
+Size: 6496
+MD5sum: 6dad43ff6b6f1cd1081378ca2e9fc826
+SHA1: 75388ae76af277771cfd9866ed575fbaeac0617c
+SHA256: a17b2ad84673a24356bc9de757820c1661176f6f97ddd5ab1530e93a80c6a8b9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ZARD
+Name: FBInject
+
+Package: liblua5.3-0
+Version: 5.3.3-1
+Architecture: iphoneos-arm64e
+Maintainer: RootHide <RootHideDev@twitter>
+Installed-Size: 236
+Depends: roothide (>= 0.0.6), libiosexec1 (>= 1.3.1)
+Filename: ./liblua5.3-0_5.3.3-1_iphoneos-arm64e.deb
+Size: 92886
+MD5sum: a11c79c74b6b2cd046716cc200d24868
+SHA1: 6f0960096fea3a628ca55e605ea6a5d10332d5f7
+SHA256: 57b9b5842498b167e1ef9cefdc2f6d7cec6ba209184dcfd363ed829a6ee6d3e8
+Section: Libraries
+Priority: standard
+Description: Shared library for the Lua interpreter version 5.3
+ Lua is a powerful, light-weight programming language designed for extending
+ applications.  The language engine is accessible as a library, having a C
+ API which allows the application to exchange data with Lua programs and also
+ to extend Lua with C functions.  Lua is also used as a general-purpose,
+ stand-alone language through the simple command line interpreter provided.
+ .
+ This package contains runtime libraries.  You shouldn't need to install it
+ explicitly.
+
+Package: libsqlite3-1
+Version: 3.34.1
+Architecture: iphoneos-arm64e
+Maintainer: roothide <roothideDev@twitter>
+Installed-Size: 980
+Depends: roothide (>= 0.0.8), libiosexec1 (>= 1.3.1)
+Filename: ./libsqlite3-1_3.34.1_iphoneos-arm64e.deb
+Size: 557180
+MD5sum: 67341967d6dc6a75faf3fa88a6221941
+SHA1: 2f543efd0912371afb5b650f1848e3e78473d273
+SHA256: d752a83ecc2ef1463a2f405af2739182f7b64996d2a84a917c83cdf8408bcb9a
+Section: Libraries
+Priority: standard
+Homepage: https://www.sqlite.org/
+Description: SQLite 3 shared library
+
+Package: lua5.3
+Version: 5.3.3-1
+Architecture: iphoneos-arm64e
+Maintainer: RootHide <RootHideDev@twitter>
+Installed-Size: 152
+Depends: roothide (>= 0.0.6), libiosexec1 (>= 1.3.1), liblua5.3-0 (= 5.3.3-1), libreadline8
+Provides: lua
+Filename: ./lua5.3_5.3.3-1_iphoneos-arm64e.deb
+Size: 14208
+MD5sum: ab02bc56f3004464c722d174919c6530
+SHA1: 061f99ce400d3defc3b20d10d30bf71dbf0fdefc
+SHA256: 7951a1857e2f4f0d75c8e9ac701264fa52c488077178ef85befafe9cc5b0c081
+Section: Utilities
+Priority: standard
+Description: Simple, extensible, embeddable programming language
+ Lua is a powerful, light-weight programming language designed for extending
+ applications.  The language engine is accessible as a library, having a C
+ API which allows the application to exchange data with Lua programs and also
+ to extend Lua with C functions.  Lua is also used as a general-purpose,
+ stand-alone language through the simple command line interpreter provided.
+ .
+ This package contains the Lua command line interpreter and bytecode compiler.
+ Install it if you are developing or using Lua scripts.
+
+Package: net.kenhtao.gestures15.less
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: iCraze
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.icraze.gestures15, net.kenhtao.gestures15.full
+Replaces: com.icraze.gestures15, net.kenhtao.gestures15.full
+Filename: ./net.kenhtao.gestures15.less_1.0_iphoneos-arm64e-1.deb
+Size: 6690
+MD5sum: 3358ce1c2d3906752edf1888cc3bab98
+SHA1: 26bfcb02749ee44e2dcd122588469793b68ca534
+SHA256: aed62c2f1ad33f95d37af12e16221058d17e10619d8da12320f5810eeb6fd034
+Section: Tweaks
+Description: Cử chỉ iPhone X và thanh trạng thái iPad cho tất cả các thiết bị
+Author: iCraze
+Name: Gestures15 (RootLess) VN
+
+Package: rootless-compat
+Version: 1.8
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 284
+Depends: com.roothide.patchloader(>= 0.0.4)
+Filename: ./rootless-compat_1.8_iphoneos-arm64e.deb
+Size: 39322
+MD5sum: 3a2914e4a30d88904b9ee9b40d8b0331
+SHA1: b1322794f4fa674bfdba198fdcd3f047f4adc6dc
+SHA256: 0d566a31bd1bf14857d24258a89cabc6231760ebc3fc7188c3cfb85c1c89c4f4
+Section: RootHide Patches
+Description: Compat Layer for Rootless Tweaks
+Author: roothide
+Name: rootless-compat
+
+Package: sqlite3
+Version: 3.34.1
+Architecture: iphoneos-arm64e
+Maintainer: roothide <roothideDev@twitter>
+Installed-Size: 316
+Depends: roothide (>= 0.0.8), libiosexec1 (>= 1.3.1), libsqlite3-1 (= 3.34.1), libreadline8, libncursesw6
+Filename: ./sqlite3_3.34.1_iphoneos-arm64e.deb
+Size: 116974
+MD5sum: 4a39a71bdbd4bc1043e0c8e6345fe6f9
+SHA1: a7fa7bd7ca419cb6bc2a25abbff00b0689a27b9a
+SHA256: e1099bf0075ae4b504e09acd1dd91ee5939b5c37dddd6a9763726a7fb10d44c4
+Section: Data_Storage
+Priority: standard
+Homepage: https://www.sqlite.org/
+Description: Command line interface for SQLite 3
+
+Package: vht.vuhuyentuan.fbextract
+Version: 1.1.1-4+debug
+Architecture: iphoneos-arm64e
+Maintainer: vuhuyentuan
+Installed-Size: 212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./vht.vuhuyentuan.fbextract_1.1.1-4+debug_iphoneos-arm64e.deb
+Size: 22378
+MD5sum: cef0f53ef4b76d2ed701363780605658
+SHA1: c4fba23aa0557ff75f5936b1c79663223984046d
+SHA256: a236f619a55f80c241b8a2d79843151924779b03126f719eef464486d7535fb5
+Section: System
+Priority: optional
+Description: Extract Facebook access token
+Author: vuhuyentuan
+Dev: vuhuyentuan
+Name: FBTokenExtract
+
