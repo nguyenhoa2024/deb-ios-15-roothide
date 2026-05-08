@@ -1,0 +1,2 @@
+ii  com.mins.00injectat                                        1.0.0-320+debug           iphoneos-arm64e An awesome tool of some sort!!
+ii  com.mins.mutil                                             0.0.1-200+debug           iphoneos-arm64e An awesome tool of some sort!!
