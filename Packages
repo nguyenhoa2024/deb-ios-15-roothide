@@ -43,16 +43,33 @@ Version: 1.0.0-320+debug
 Architecture: iphoneos-arm64e
 Maintainer: Mins
 Installed-Size: 316
-Filename: ./com.mins.00injectat_1.0.0-320+debug_iphoneos-arm64e.deb
-Size: 30208
-MD5sum: 9284a9cbc5a744de27ab1c06f64bd35f
-SHA1: e21dbeccfcfad5b59349527b5ca0dc791964528d
-SHA256: 9934fbb3416186a99e1f1411e5639d8eb3f639aa8a72693f35e5ef888c0cad98
+Filename: ./com.mins.00injectat.deb
+Size: 28728
+MD5sum: 06ecb0ae34ee06cf4bd386a41a82b269
+SHA1: 42c48bf66fab42c153326b10fe86627551217781
+SHA256: 3cbe3e31d18d1b1ff8cfb2471853324f0d1cc5e51f164feded6c29db50dec420
 Section: Tweak
 Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: Mins
 Name: Inject autotouch license
+
+Package: com.mins.mutil
+Version: 0.0.1-200+debug
+Architecture: iphoneos-arm64e
+Maintainer: Mins
+Installed-Size: 68016
+Depends: mobilesubstrate (>= 0.9.5000), curl
+Filename: ./com.mins.mutil.deb
+Size: 18425548
+MD5sum: 09a2a2e38eb12b0ec4eeb05a167459d1
+SHA1: 40247f277b50bca4ed652c3d19d100b8cd81e9de
+SHA256: 9dc0e27c14dcd25255913fc7930bd84b408e1a6549b95fb6b61f127b2890bbb9
+Section: Tweak
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: Mins
+Name: Mins Utilities for AutoTouch
 
 Package: com.mins.minifbcookie
 Version: 0.0.1-31+debug
