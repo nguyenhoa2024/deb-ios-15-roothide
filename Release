@@ -6,10 +6,10 @@ Codename: ios
 Architectures: iphoneos-arm64e iphoneos-arm64 iphoneos-arm
 Components: main
 Description: My iOS 15 Repo
-Date: Thu, 08 May 2026 13:30:00 +0000
+Date: Tue, 12 May 2026 05:42:20 +0000
 MD5Sum:
- c561fadbf2e3e9299a052583ec085ae8 10095 Packages
- 013573c4727a37565f005f852a16215c 3627 Packages.gz
+ 474c5cd6099561018b5e38cad9bb4314 10467 Packages
+ cf88b11dcde82501428cbd3ddd267e18 3801 Packages.gz
 SHA256:
- 327f185bc74d004c1a53b26f80fc793688c98bb727aba5ab3b55676cdc272ab8 10095 Packages
- 247aaa991b7475f0e17acaa50973dbf546a79702f2cb91c6ae20893160578177 3627 Packages.gz
+ 94a94e0fa5e1544d9f9eeb1a78fc19dc03ee6b99d123b73554e5d2d38b232eb4 10467 Packages
+ 626c47e1a04ec53193572d98510af276ad7611d97f995273e3b3aa8273d49b9c 3801 Packages.gz
